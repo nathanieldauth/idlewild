@@ -10,7 +10,12 @@
 <link rel="dns-prefetch" href="//s.w.org">
 
 
+<link rel="stylesheet" id="layerslider-css" href="https://nathanieldauth.github.io/idlewild/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css" type="text/css" media="all">
 <link rel="stylesheet" id="wp-block-library-css" href="https://nathanieldauth.github.io/idlewild/wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://nathanieldauth.github.io/idlewild/wp-content/plugins/revslider/public/assets/css/rs6.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
 <link rel="stylesheet" id="uncode-style-css" href="https://nathanieldauth.github.io/idlewild/wp-content/themes/uncode/library/css/style.css" type="text/css" media="all">
 <style id="uncode-style-inline-css" type="text/css">
 
@@ -21,12 +26,24 @@
 <link rel="stylesheet" id="child-style-css" href="https://nathanieldauth.github.io/idlewild/wp-content/themes/uncode-child/style.css" type="text/css" media="all">
 <script type="text/javascript" src="https://nathanieldauth.github.io/idlewild/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://nathanieldauth.github.io/idlewild/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="layerslider-utils-js-extra">
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.6","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nathanieldauth.github.io/idlewild/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js" id="layerslider-utils-js"></script>
+<script type="text/javascript" src="https://nathanieldauth.github.io/idlewild/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js" id="layerslider-js"></script>
+<script type="text/javascript" src="https://nathanieldauth.github.io/idlewild/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js" id="layerslider-transitions-js"></script>
+<script type="text/javascript" src="https://nathanieldauth.github.io/idlewild/wp-content/plugins/revslider/public/assets/js/rbtools.min.js" id="tp-tools-js"></script>
+<script type="text/javascript" src="https://nathanieldauth.github.io/idlewild/wp-content/plugins/revslider/public/assets/js/rs6.min.js" id="revmin-js"></script>
 <script type="text/javascript" id="uncode-init-js-extra">
 /* <![CDATA[ */
 var SiteParameters = {"days":"days","hours":"hours","minutes":"minutes","seconds":"seconds","constant_scroll":"on","scroll_speed":"2","parallax_factor":"0.25","loading":"Loading\u2026","slide_name":"slide","slide_footer":"footer","ajax_url":"https:\/\/nathanieldauth.github.io\/idlewild\/wp-admin\/admin-ajax.php","nonce_adaptive_images":"8e9738e38a","enable_debug":"","block_mobile_videos":"","is_frontend_editor":"","mobile_parallax_allowed":"","wireframes_plugin_active":"1","sticky_elements":"off","lazyload_type":"","update_wc_fragments":"1"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://nathanieldauth.github.io/idlewild/wp-content/themes/uncode/library/js/init.js" id="uncode-init-js"></script>
+
+
 
 
 
@@ -45,7 +62,53 @@ var SiteParameters = {"days":"days","hours":"hours","minutes":"minutes","seconds
                 overflow-x: hidden;
                 overflow-y: auto;
                 margin: 15vh auto;
-            }</style><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css" id="wp-custom-css">
+            }</style><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
 			.tmb-avatar-size-sm .avatar.avatar-20.photo{ 
 display: none; 
 }		</style>
@@ -89,7 +152,7 @@ display: none;
 						<div class="sections-container">
 <script type="text/javascript">UNCODE.initHeader();</script><article id="post-573" class="page-body style-light-bg post-573 page type-page status-publish hentry">
 						<div class="post-wrapper">
-							<div class="post-body"><div class="post-content un-no-sidebar-layout"><div data-parent="true" class="vc_row vc_custom_1617448807315 row-container" style="margin-bottom: 30px ;" id="row-164160"><div class="row limit-width row-parent"><div class="wpb_row row-inner"><div class="wpb_column pos-top pos-center align_left column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="vc_custom_heading_wrap "><div class="heading-text el-text heading-bigtext alpha-anim animate_when_almost_visible"><p class="bigtext"><span></span></p><span><h1 style="text-align: center;">Colorizations</h1></span><span><p></p></span></div><div class="clear"></div></div></div></div></div></div></div><script id="script-row-164160" data-row="script-row-164160" type="text/javascript" class="vc_controls">UNCODE.initRow(document.getElementById("row-164160"));</script></div></div></div><div data-parent="true" class="vc_row row-container" id="row-147649"><div class="row col-no-gutter quad-top-padding quad-bottom-padding single-h-padding limit-width row-parent"><div class="wpb_row shift_y_neg_triple row-inner"><div class="wpb_column pos-top pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light shift_y_neg_triple"><div class="uncoltable"><div class="uncell"><div class="uncont no-block-padding col-custom-width" style="max-width:75%;">
+							<div class="post-body"><div class="post-content un-no-sidebar-layout"><div data-parent="true" class="vc_row vc_custom_1617448807315 row-container" style="margin-bottom: 30px ;" id="row-645236"><div class="row limit-width row-parent"><div class="wpb_row row-inner"><div class="wpb_column pos-top pos-center align_left column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="vc_custom_heading_wrap "><div class="heading-text el-text heading-bigtext alpha-anim animate_when_almost_visible"><p class="bigtext"><span></span></p><span><h1 style="text-align: center;">Colorizations</h1></span><span><p></p></span></div><div class="clear"></div></div></div></div></div></div></div><script id="script-row-645236" data-row="script-row-645236" type="text/javascript" class="vc_controls">UNCODE.initRow(document.getElementById("row-645236"));</script></div></div></div><div data-parent="true" class="vc_row row-container" id="row-190153"><div class="row col-no-gutter quad-top-padding quad-bottom-padding single-h-padding limit-width row-parent"><div class="wpb_row shift_y_neg_triple row-inner"><div class="wpb_column pos-top pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light shift_y_neg_triple"><div class="uncoltable"><div class="uncell"><div class="uncont no-block-padding col-custom-width" style="max-width:75%;">
 <div class="uncode-twentytwenty ">
 	<div class="twentytwenty-container">
 		<img src="https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Project-Colorization-Idlewild-Facade.jpg" width="1166" height="1435">
@@ -97,7 +160,7 @@ display: none;
 	</div>
 </div>
 <div class="uncode_text_column vc_custom_1617448754637 alpha-anim animate_when_almost_visible" style="margin-top: 10px ;"><p><em>Idlewild Lodge facade c. 1920.</em></p>
-</div></div></div></div></div></div><script id="script-row-147649" data-row="script-row-147649" type="text/javascript" class="vc_controls">UNCODE.initRow(document.getElementById("row-147649"));</script></div></div></div><div data-parent="true" class="vc_row row-container" id="row-164383"><div class="row quad-top-padding quad-bottom-padding single-h-padding full-width row-parent"><div class="wpb_row shift_y_neg_triple row-inner"><div class="wpb_column pos-top pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light shift_y_neg_triple"><div class="uncoltable"><div class="uncell"><div class="uncont no-block-padding col-custom-width" style="max-width:75%;">
+</div></div></div></div></div></div><script id="script-row-190153" data-row="script-row-190153" type="text/javascript" class="vc_controls">UNCODE.initRow(document.getElementById("row-190153"));</script></div></div></div><div data-parent="true" class="vc_row row-container" id="row-165557"><div class="row quad-top-padding quad-bottom-padding single-h-padding full-width row-parent"><div class="wpb_row shift_y_neg_triple row-inner"><div class="wpb_column pos-top pos-center align_center column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light shift_y_neg_triple"><div class="uncoltable"><div class="uncell"><div class="uncont no-block-padding col-custom-width" style="max-width:75%;">
 <div class="uncode-twentytwenty ">
 	<div class="twentytwenty-container">
 		<img src="https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Project-Colorization-Idlewild-Hearth.jpg" width="2557" height="1463">
@@ -120,14 +183,14 @@ Nor master’s voice unkind.</p>
 Thou, too, dear heart; and here<br>
 The rule of life is love.</p>
 <p><em> </em></p>
-</div></div></div></div></div></div><script id="script-row-164383" data-row="script-row-164383" type="text/javascript" class="vc_controls">UNCODE.initRow(document.getElementById("row-164383"));</script></div></div></div>
+</div></div></div></div></div></div><script id="script-row-165557" data-row="script-row-165557" type="text/javascript" class="vc_controls">UNCODE.initRow(document.getElementById("row-165557"));</script></div></div></div>
 </div></div>
 						</div>
 					</article>
 								</div>
 							</div>
 												<footer id="colophon" class="site-footer">
-							<div data-parent="true" class="vc_row style-color-wayh-bg row-container mobile-hidden" id="row-679816"><div class="row col-double-gutter triple-top-padding no-bottom-padding single-h-padding limit-width row-parent"><div class="wpb_row row-inner"><div class="wpb_column pos-top pos-left align_left column_parent col-lg-3 col-md-33 no-internal-gutter"><div class="uncol style-dark"><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="vc_custom_heading_wrap "><div class="heading-text el-text"><h5 class="h5"><span>Idlewild Lodge</span></h5></div><div class="clear"></div></div><div class="uncode_text_column"><p>Idlewild Lane<br>
+							<div data-parent="true" class="vc_row style-color-wayh-bg row-container mobile-hidden" id="row-497834"><div class="row col-double-gutter triple-top-padding no-bottom-padding single-h-padding limit-width row-parent"><div class="wpb_row row-inner"><div class="wpb_column pos-top pos-left align_left column_parent col-lg-3 col-md-33 no-internal-gutter"><div class="uncol style-dark"><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="vc_custom_heading_wrap "><div class="heading-text el-text"><h5 class="h5"><span>Idlewild Lodge</span></h5></div><div class="clear"></div></div><div class="uncode_text_column"><p>Idlewild Lane<br>
 Big Thompson Canyon<br>
 Loveland, Colorado</p>
 </div></div></div></div></div></div><div class="wpb_column pos-top pos-left align_left column_parent col-lg-3 col-md-33 one-internal-gutter"><div class="uncol style-dark"><div class="uncoltable"><div class="uncell no-block-padding"><div class="uncont"><div class="vc_custom_heading_wrap "><div class="heading-text el-text"><h5 class="h5"><span>Navigation</span></h5></div><div class="clear"></div></div><div class="uncode-wrapper uncode-list">
@@ -148,7 +211,7 @@ Loveland, Colorado</p>
 <li><i class="fa fa-arrow-right3"></i><a href="https://nathanieldauth.github.io/idlewild/colorizations/" rel="nofollow noopener">Colorizations</a></li>
 <li><i class="fa fa-arrow-right3"></i><a href="https://nathanieldauth.github.io/idlewild/timeline/" rel="nofollow noopener">Timeline</a></li>
 </ul>
-<p></p></div></div></div></div></div></div><script id="script-row-679816" data-row="script-row-679816" type="text/javascript" class="vc_controls">UNCODE.initRow(document.getElementById("row-679816"));</script></div></div></div>
+<p></p></div></div></div></div></div></div><script id="script-row-497834" data-row="script-row-497834" type="text/javascript" class="vc_controls">UNCODE.initRow(document.getElementById("row-497834"));</script></div></div></div>
 <div class="row-container style-dark-bg footer-center footer-last">
 		  					<div class="row row-parent style-dark limit-width no-top-padding no-h-padding no-bottom-padding">
 									<div class="site-info uncell col-lg-6 pos-middle text-center">© 2021 Idlewild Lodge. All rights reserved</div>
