@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://nathanieldauth.github.io/idlewild/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.1.1" -->
-<!-- generated-on="April 4, 2021 9:34 am" -->
+<!-- generated-on="April 4, 2021 11:09 am" -->
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<sitemap>
 		<loc>https://nathanieldauth.github.io/idlewild/sitemap-misc.xml</loc>
-		<lastmod>2021-04-03T18:39:08+00:00</lastmod>
+		<lastmod>2021-04-04T11:04:58+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://nathanieldauth.github.io/idlewild/sitemap-tax-category.xml</loc>
-		<lastmod>2021-04-03T18:39:08+00:00</lastmod>
+		<lastmod>2021-04-04T11:04:58+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://nathanieldauth.github.io/idlewild/sitemap-pt-post-2021-04.xml</loc>
-		<lastmod>2021-04-03T16:30:19+00:00</lastmod>
+		<lastmod>2021-04-04T11:04:58+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://nathanieldauth.github.io/idlewild/sitemap-pt-post-2021-03.xml</loc>
@@ -26,10 +26,10 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://nathanieldauth.github.io/idlewild/sitemap-authors.xml</loc>
-		<lastmod>2021-04-03T18:39:08+00:00</lastmod>
+		<lastmod>2021-04-04T11:04:58+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://nathanieldauth.github.io/idlewild/sitemap-archives.xml</loc>
-		<lastmod>2021-04-03T18:39:08+00:00</lastmod>
+		<lastmod>2021-04-04T11:04:58+00:00</lastmod>
 	</sitemap>
-</sitemapindex><!-- Request ID: a705a3d49bf69c8ac21c7ccdb4b5c639; Queries for sitemap: 6; Total queries: 49; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 6MB -->
+</sitemapindex><!-- Request ID: 7f41b42c159b0e42c8053e3f4343ab15; Queries for sitemap: 6; Total queries: 49; Seconds: 0.01; Memory for sitemap: 0MB; Total memory: 6MB -->
