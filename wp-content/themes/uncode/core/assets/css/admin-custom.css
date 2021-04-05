@@ -219,23 +219,23 @@
 .border-color-210407-color {border-color: #006cff !important;}
 .tmb-overlay-gradient-top .style-color-210407-bg {background-color: transparent !important;background-image: linear-gradient(to bottom,#006cff 0%,rgba(0,108,255,0) 50%) !important;}
 .tmb-overlay-gradient-bottom .style-color-210407-bg:not(.tmb-term-evidence) {background-color: transparent !important;background-image: linear-gradient(to top,#006cff 0%,rgba(0,108,255,0) 50%) !important;}
-.style-accent-bg {background-color: #000;}
-.btn-accent {color: #fff !important;background-color: #000 !important;border-color: #000 !important;}
-.btn-accent:not(.btn-hover-nobg):not(.icon-animated):hover, .btn-accent:not(.btn-hover-nobg):not(.icon-animated):focus, .btn-accent:not(.btn-hover-nobg):not(.icon-animated):active {background-color: transparent !important;border-color: #000 !important;}
-.btn-accent.btn-flat:not(.btn-hover-nobg):hover, .btn-accent.btn-flat:not(.btn-hover-nobg):focus, .btn-accent.btn-flat:active {background-color: #000 !important;border-color: #000 !important;}
-.btn-accent:not(.btn-flat):not(.btn-hover-nobg):not(.icon-animated):not(.btn-text-skin):hover, .btn-accent:not(.btn-flat):not(.btn-hover-nobg):not(.icon-animated):not(.btn-text-skin):focus, .btn-accent:not(.btn-flat):not(.btn-hover-nobg):not(.icon-animated):not(.btn-text-skin):active {color: #000 !important;}
-.btn-accent.btn-outline {background-color: transparent !important;border-color: #000 !important;}
-.btn-accent.btn-outline:not(.btn-text-skin) {color: #000 !important;}
-.btn-accent.btn-outline:not(.btn-hover-nobg):hover, .btn-accent.btn-outline:not(.btn-hover-nobg):focus, btn-accent.btn-outline:active {background-color: #000 !important;border-color: #000 !important;}
+.style-accent-bg {background-color: #0cb4ce;}
+.btn-accent {color: #fff !important;background-color: #0cb4ce !important;border-color: #0cb4ce !important;}
+.btn-accent:not(.btn-hover-nobg):not(.icon-animated):hover, .btn-accent:not(.btn-hover-nobg):not(.icon-animated):focus, .btn-accent:not(.btn-hover-nobg):not(.icon-animated):active {background-color: transparent !important;border-color: #0cb4ce !important;}
+.btn-accent.btn-flat:not(.btn-hover-nobg):hover, .btn-accent.btn-flat:not(.btn-hover-nobg):focus, .btn-accent.btn-flat:active {background-color: #00a7c1 !important;border-color: #00a7c1 !important;}
+.btn-accent:not(.btn-flat):not(.btn-hover-nobg):not(.icon-animated):not(.btn-text-skin):hover, .btn-accent:not(.btn-flat):not(.btn-hover-nobg):not(.icon-animated):not(.btn-text-skin):focus, .btn-accent:not(.btn-flat):not(.btn-hover-nobg):not(.icon-animated):not(.btn-text-skin):active {color: #0cb4ce !important;}
+.btn-accent.btn-outline {background-color: transparent !important;border-color: #0cb4ce !important;}
+.btn-accent.btn-outline:not(.btn-text-skin) {color: #0cb4ce !important;}
+.btn-accent.btn-outline:not(.btn-hover-nobg):hover, .btn-accent.btn-outline:not(.btn-hover-nobg):focus, btn-accent.btn-outline:active {background-color: #0cb4ce !important;border-color: #0cb4ce !important;}
 .btn-accent.btn-outline:not(.btn-hover-nobg):not(.btn-text-skin):not(.icon-animated):hover, .btn-accent.btn-outline:not(.btn-hover-nobg):not(.btn-text-skin):not(.icon-animated):focus, btn-accent.btn-outline:active {color: #fff !important;}
 .style-light .btn-accent.btn-text-skin.btn-outline, .style-light .btn-accent.btn-text-skin:not(.btn-outline):hover, .style-light .btn-accent.btn-text-skin:not(.btn-outline):focus, .style-light .btn-accent.btn-text-skin:not(.btn-outline):active {color: #303133 !important;}
 .style-light .btn-accent.btn-text-skin.btn-outline:hover, .style-light .btn-accent.btn-text-skin.btn-outline:focus, .style-light .btn-accent.btn-text-skin.btn-outline:active {color: #fff !important;}
 .style-light .style-dark .btn-accent.btn-text-skin.btn-outline, .style-light .style-dark .btn-accent.btn-text-skin:not(.btn-outline):hover, .style-light .style-dark .btn-accent.btn-text-skin:not(.btn-outline):focus, .style-light .style-dark .btn-accent.btn-text-skin:not(.btn-outline):active {color: #fff !important;}
 .style-light .style-dark .btn-accent.btn-text-skin.btn-outline:hover, .style-light .style-dark .btn-accent.btn-text-skin.btn-outline:focus, .style-light .style-dark .btn-accent.btn-text-skin.btn-outline:active {color: #303133 !important;}
-.text-accent-color {color: #000 !important;fill: #000 !important;}
-.border-accent-color {border-color: #000 !important;}
-.tmb-overlay-gradient-top .style-accent-bg {background-color: transparent !important;background-image: linear-gradient(to bottom,#000 0%,rgba(0,0,0,0) 50%) !important;}
-.tmb-overlay-gradient-bottom .style-accent-bg:not(.tmb-term-evidence) {background-color: transparent !important;background-image: linear-gradient(to top,#000 0%,rgba(0,0,0,0) 50%) !important;}
+.text-accent-color {color: #0cb4ce !important;fill: #0cb4ce !important;}
+.border-accent-color {border-color: #0cb4ce !important;}
+.tmb-overlay-gradient-top .style-accent-bg {background-color: transparent !important;background-image: linear-gradient(to bottom,#0cb4ce 0%,rgba(12,180,206,0) 50%) !important;}
+.tmb-overlay-gradient-bottom .style-accent-bg:not(.tmb-term-evidence) {background-color: transparent !important;background-image: linear-gradient(to top,#0cb4ce 0%,rgba(12,180,206,0) 50%) !important;}
 .style-light-bg {background-color: #fff;}
 .border-light-bg {border-color: #fff;}
 .style-dark-bg {background-color: #141618;}
