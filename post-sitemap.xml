@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//nathanieldauth.github.io/idlewild/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/harding-heights/</loc>
+		<lastmod>2021-04-03T12:12:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Harding-Heights-Featured-Image-e1617351919783.jpg</image:loc>
+			<image:title><![CDATA[Post - Harding Heights - Featured Image]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Harding-Heights-Article-2-1024x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – Harding Heights – Article 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Harding-Heights-Article-1.jpg</image:loc>
+			<image:title><![CDATA[Post – Harding Heights – Article 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Harding-Heights-1-1024x779.jpg</image:loc>
+			<image:title><![CDATA[Post – Harding Heights 1]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/ella-van-bramer/</loc>
+		<lastmod>2021-04-03T12:55:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Ella-Van-Bramer-Featured.jpg</image:loc>
+			<image:title><![CDATA[Post - Ella Van Bramer - Featured]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Ella-Van-Bramer-Featured-1024x591.jpg</image:loc>
+			<image:title><![CDATA[Post – Ella Van Bramer – Featured]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Ella-Van-Bramer-Article-2.jpg</image:loc>
+			<image:title><![CDATA[Post – Ella Van Bramer – Article 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Ella-Van-Bramer-Article-1.jpg</image:loc>
+			<image:title><![CDATA[Post – Ella Van Bramer – Article 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Ella-Van-Bramer-Article-3.jpg</image:loc>
+			<image:title><![CDATA[Post – Ella Van Bramer – Article 3]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Idlewild-Subdivision-Low-Res-1024x689.jpg</image:loc>
+			<image:title><![CDATA[Idlewild Subdivision (Low Res)]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Ella-Van-Bramer-Homestead-Patent-642x1024.png</image:loc>
+			<image:title><![CDATA[Post – Ella Van Bramer – Homestead Patent]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/harvey-ervin-witwer/</loc>
+		<lastmod>2021-04-03T12:56:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Harvey-Witwer-Featured-scaled.jpg</image:loc>
+			<image:title><![CDATA[Post - Harvey Witwer - Featured]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Harvey-Witwer-02-1-852x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – Harvey Witwer – 02]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Harvey-Witwer-01-1-1024x807.jpg</image:loc>
+			<image:title><![CDATA[Post – Harvey Witwer – 01]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Harvey-Witwer-Article.jpg</image:loc>
+			<image:title><![CDATA[Post – Harvey Witwer – Article]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/george-dauth/</loc>
+		<lastmod>2021-04-03T13:03:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Featured.jpg</image:loc>
+			<image:title><![CDATA[Post - George Dauth - Featured]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-01-717x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – 01]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Advertisement-1024x434.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Advertisement]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-02-1024x698.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – 02]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Lodge-1024x588.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Lodge]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Lodge-2-1024x572.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Lodge 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Lodge-3-1-1024x551.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Lodge 3]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-05-1024x597.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – 05]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Lodge-4-1024x737.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Lodge 4]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Lodge-6-1024x558.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Lodge 6]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Lodge-5-1024x709.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Lodge 5]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Lodge-12-1024x596.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Lodge 12]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-DAMFINO-1024x714.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – DAMFINO]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Lodge-9-602x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Lodge 9]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Idlewild-Garden-1024x571.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Idlewild Garden]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Lodge-10-1024x589.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Lodge 10]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Lodge-11-1024x592.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Lodge 11]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-03-1024x766.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – 03]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Lodge-8-1024x171.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Lodge 8]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-George-Dauth-Featured-1024x596.jpg</image:loc>
+			<image:title><![CDATA[Post – George Dauth – Featured]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/damfino/</loc>
+		<lastmod>2021-04-03T13:08:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-DAMFINO-Photo-2.jpg</image:loc>
+			<image:title><![CDATA[Post - DAMFINO - Photo 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-DAMFINO-Photo-2-1024x581.jpg</image:loc>
+			<image:title><![CDATA[Post – DAMFINO – Photo 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-DAMFINO-Movie-1.gif</image:loc>
+			<image:title><![CDATA[Post – DAMFINO – Movie 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-DAMFINO-Movie-2.gif</image:loc>
+			<image:title><![CDATA[Post – DAMFINO – Movie 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-DAMFINO-Movie-3.gif</image:loc>
+			<image:title><![CDATA[Post – DAMFINO – Movie 3]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-DAMFINO-Photo-1-1024x589.jpg</image:loc>
+			<image:title><![CDATA[Post – DAMFINO – Photo 1]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/idle-wild-subdivision-plat/</loc>
+		<lastmod>2021-04-03T13:10:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Idlewild-Subdivision-Campground-scaled.jpg</image:loc>
+			<image:title><![CDATA[Post - Idlewild Subdivision - Campground]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Idlewild-Subdivision-Low-Res-1024x689.jpg</image:loc>
+			<image:title><![CDATA[Idlewild Subdivision (Low Res)]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Idlewild-Subdivision-Bridge-2-1024x631.jpg</image:loc>
+			<image:title><![CDATA[Post – Idlewild Subdivision – Bridge 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Idlewild-Subdivision-Stewarts-and-Turkington-Article-1.jpg</image:loc>
+			<image:title><![CDATA[Post – Idlewild Subdivision – Stewarts and Turkington – Article 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Idlewild-Subdivision-Bridge-1024x693.jpg</image:loc>
+			<image:title><![CDATA[Post – Idlewild Subdivision – Bridge]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Idlewild-Subdivision-Campground-1024x554.jpg</image:loc>
+			<image:title><![CDATA[Post – Idlewild Subdivision – Campground]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Idlewild-Subdivision-Idle-Wild-House-1024x823.jpg</image:loc>
+			<image:title><![CDATA[Post – Idlewild Subdivision – Idle Wild House]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Idlewild-Subdivision-Kelley-Tent-1024x839.jpg</image:loc>
+			<image:title><![CDATA[Post – Idlewild Subdivision – Kelley Tent]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Idlewild-Subdivision-Milkhouse-1024x804.jpg</image:loc>
+			<image:title><![CDATA[Post – Idlewild Subdivision – Milkhouse]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Idlewild-Subdivision-Stewarts-and-Turkington-1024x819.jpg</image:loc>
+			<image:title><![CDATA[Post – Idlewild Subdivision – Stewarts and Turkington]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/appleby-motel/</loc>
+		<lastmod>2021-04-03T13:21:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-1-scaled.jpg</image:loc>
+			<image:title><![CDATA[Post - Appleby - Photo 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-13-1.jpg</image:loc>
+			<image:title><![CDATA[Post – Appleby – Photo 13]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-2-1024x636.jpg</image:loc>
+			<image:title><![CDATA[“Applyby Cafe and Walk Bridge”]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-3-1024x779.jpg</image:loc>
+			<image:title><![CDATA[Post – Appleby – Photo 3]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-4-959x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – Appleby – Photo 4]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-1-1024x659.jpg</image:loc>
+			<image:title><![CDATA[Post – Appleby – Photo 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-5-1024x726.jpg</image:loc>
+			<image:title><![CDATA[Post – Appleby – Photo 5]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-13-1024x727.jpg</image:loc>
+			<image:title><![CDATA[Unknown – Jody (Left), Unknown – Donna (Middle), Unknown – Claudine (Right)]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-6-1024x692.jpg</image:loc>
+			<image:title><![CDATA[“Jody appleby, Donna appleby and leslie ann on rosses bears July]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-7.jpg</image:loc>
+			<image:title><![CDATA[Post – Appleby – Photo 7]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-8.jpg</image:loc>
+			<image:title><![CDATA[Post – Appleby – Photo 8]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-9.jpg</image:loc>
+			<image:title><![CDATA[Post – Appleby – Photo 9]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-12.jpg</image:loc>
+			<image:title><![CDATA[Post – Appleby – Photo 12]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Motel-Advertisement.jpg</image:loc>
+			<image:title><![CDATA[Post – Appleby Motel – Advertisement]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Motel-Palisade-Motel-719x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – Appleby Motel – Palisade Motel]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/the-covered-wagon-restaurant/</loc>
+		<lastmod>2021-04-03T13:33:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Covered-Wagon-Featured-Image-scaled.jpg</image:loc>
+			<image:title><![CDATA[Post - Covered Wagon - Featured Image]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-1-1024x659.jpg</image:loc>
+			<image:title><![CDATA[Post – Appleby – Photo 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Appleby-Photo-2-1024x636.jpg</image:loc>
+			<image:title><![CDATA[“Applyby Cafe and Walk Bridge”]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Covered-Wagon-Article-1.jpg</image:loc>
+			<image:title><![CDATA[Post – Covered Wagon – Article 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Covered-Wagon-Photo-2-1024x798.jpg</image:loc>
+			<image:title><![CDATA[Post – Covered Wagon – Photo 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Covered-Wagon-Photo-3-1024x733.jpg</image:loc>
+			<image:title><![CDATA[“1955 Bud, Jerry, Jonsey, Leon, ?”]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Covered-Wagon-Article-2.jpg</image:loc>
+			<image:title><![CDATA[Post – Covered Wagon – Article 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Covered-Wagon-Advertisement-3.jpg</image:loc>
+			<image:title><![CDATA[Post – Covered Wagon – Advertisement 3]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Covered-Wagon-Advertisement-2.jpg</image:loc>
+			<image:title><![CDATA[Post – Covered Wagon – Advertisement 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Covered-Wagon-Advertisement-e1617369366838.jpg</image:loc>
+			<image:title><![CDATA[Post – Covered Wagon]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Covered-Wagon-Menu-874x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – Covered Wagon – Menu]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Covered-Wagon-Article-4.jpg</image:loc>
+			<image:title><![CDATA[Post – Covered Wagon – Article 4]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Covered-Wagon-Article-3.jpg</image:loc>
+			<image:title><![CDATA[Post – Covered Wagon – Article 3]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Covered-Wagon-Article-5.jpg</image:loc>
+			<image:title><![CDATA[Post – Covered Wagon – Article 5]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/the-many-names-of-idlewild/</loc>
+		<lastmod>2021-04-03T13:56:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Many-Names-Of-Idlewild-Photo-4.jpg</image:loc>
+			<image:title><![CDATA[Post - Many Names Of Idlewild - Photo 4]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Ella-Van-Bramer-Article-2.jpg</image:loc>
+			<image:title><![CDATA[Post – Ella Van Bramer – Article 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Idlewild-Subdivision-Low-Res-1024x689.jpg</image:loc>
+			<image:title><![CDATA[Idlewild Subdivision (Low Res)]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Many-Names-Of-Idlewild-Idlewild-Subdivision-Closeup-1024x748.jpg</image:loc>
+			<image:title><![CDATA[Post – Many Names Of Idlewild – Idlewild Subdivision – Closeup]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Harvey-Witwer-Article.jpg</image:loc>
+			<image:title><![CDATA[Post – Harvey Witwer – Article]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Many-Names-Of-Idlewild-Photo-3-Crop-1024x796.jpg</image:loc>
+			<image:title><![CDATA[“Spring Vacation 1921” “Stubborn wouldn’t have picture taken”]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Many-Names-Of-Idlewild-Photo-2-1024x623.jpg</image:loc>
+			<image:title><![CDATA[Post – Many Names Of Idlewild – Photo 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Many-Names-Of-Idlewild-Photo-1-1024x589.jpg</image:loc>
+			<image:title><![CDATA[Post – Many Names Of Idlewild – Photo 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Many-Names-Of-Idlewild-Photo-4-832x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – Many Names Of Idlewild – Photo 4]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Many-Names-Of-Idlewild-Idle-Wild-Advertisement-752x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – Many Names Of Idlewild – Idle Wild Advertisement]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Many-Names-Of-Idlewild-Idlewild-Business-Card-1024x623.jpg</image:loc>
+			<image:title><![CDATA[Post – Many Names Of Idlewild – Idlewild Business Card]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Many-Names-Of-Idlewild-Idlewild-Lane-1024x754.jpg</image:loc>
+			<image:title><![CDATA[Post – Many Names Of Idlewild – Idlewild Lane]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/knapp-rannells-sawmill-at-idlewild/</loc>
+		<lastmod>2021-04-03T16:30:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Knapp-Sawmill-Photo-1-scaled.jpg</image:loc>
+			<image:title><![CDATA[Post - Knapp Sawmill - Photo 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Knapp-Sawmill-Photo-1-1024x683.jpg</image:loc>
+			<image:title><![CDATA[Post – Knapp Sawmill – Photo 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Knapp-Sawmill-Photo-2-751x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – Knapp Sawmill – Photo 2]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/stewart-turkington/</loc>
+		<lastmod>2021-04-05T07:13:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Idlewild-Subdivision-Stewarts-and-Turkington.jpg</image:loc>
+			<image:title><![CDATA[Post - Idlewild Subdivision - Stewarts and Turkington]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Post-Idlewild-Subdivision-Stewarts-and-Turkington-1024x819.jpg</image:loc>
+			<image:title><![CDATA[Post – Idlewild Subdivision – Stewarts and Turkington]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Stewart-Turkington-Turkington-1024x809.jpg</image:loc>
+			<image:title><![CDATA[Post – Stewart &amp; Turkington – Turkington]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Stewart-2-1024x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – Stewart-2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Stewart-4.jpg</image:loc>
+			<image:title><![CDATA[Post – Stewart-4]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Stewart-3.jpg</image:loc>
+			<image:title><![CDATA[“The Cliftons”]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Stewart-1-1024x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – Stewart-1]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/rannells-toll-road-to-idlewild/</loc>
+		<lastmod>2021-04-06T02:34:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Road-To-Idlewild-Big-Thompson-Canyon-2021-Topo-Labeled-2-scaled.jpg</image:loc>
+			<image:title><![CDATA[Post - Road To Idlewild - Big Thompson Canyon 2021 Topo - Labeled 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Rannells-Toll-Road-Article-3.jpg</image:loc>
+			<image:title><![CDATA[Post -Rannells Toll Road – Article 3]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Road-To-Idlewild-Big-Thompson-Canyon-1884-Labeled-1024x465.jpg</image:loc>
+			<image:title><![CDATA[Post – Road To Idlewild – Big Thompson Canyon 1884 – Labeled]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Road-To-Idlewild-Big-Thompson-Canyon-2021-Labeled-1024x465.jpg</image:loc>
+			<image:title><![CDATA[Post – Road To Idlewild – Big Thompson Canyon 2021 – Labeled]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Rannells-Toll-Road-Rannells-Homestead-699x1024.png</image:loc>
+			<image:title><![CDATA[Post -Rannells Toll Road – Rannells Homestead]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Rannells-Toll-Road-Article-1-224x1024.jpg</image:loc>
+			<image:title><![CDATA[Post – Rannells Toll Road – Article 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Rannells-Toll-Road-Article-4-515x1024.jpg</image:loc>
+			<image:title><![CDATA[Post -Rannells Toll Road – Article 4]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Rannells-Toll-Road-Article-5-428x1024.jpg</image:loc>
+			<image:title><![CDATA[Post -Rannells Toll Road – Article 5]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Road-To-Idlewild-Big-Thompson-Canyon-2021-Topo-Labeled-1-1024x465.jpg</image:loc>
+			<image:title><![CDATA[Post – Road To Idlewild – Big Thompson Canyon 2021 Topo – Labeled 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Road-To-Idlewild-Big-Thompson-Canyon-2021-Topo-Labeled-2-1024x465.jpg</image:loc>
+			<image:title><![CDATA[Post – Road To Idlewild – Big Thompson Canyon 2021 Topo – Labeled 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Post-Rannells-Toll-Road-Article-2.jpg</image:loc>
+			<image:title><![CDATA[Post – Rannells Toll Road – Article 2]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://nathanieldauth.github.io/idlewild/posts/forgotten-rock-formations-of-the-big-thompson/</loc>
+		<lastmod>2021-04-06T13:03:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Project-Landmark-Postcard-3-scaled.jpg</image:loc>
+			<image:title><![CDATA[Project - Landmark - Postcard 3]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Project-Landmark-Postcard-2-639x1024.jpg</image:loc>
+			<image:title><![CDATA[Project – Landmark – Postcard 2]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Project-Landmark-Pillars-of-Hercules-780x1024.jpg</image:loc>
+			<image:title><![CDATA[Project – Landmark – Pillars of Hercules]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Project-Landmark-Postcard-3-1024x646.jpg</image:loc>
+			<image:title><![CDATA[Project – Landmark – Postcard 3]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Project-Landmark-Witchs-Face-728x1024.jpg</image:loc>
+			<image:title><![CDATA[Project – Landmark – Witchs Face]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Project-Landmark-5-1024x641.jpg</image:loc>
+			<image:title><![CDATA[Sentinel Rocks – Loveland Estes Park Auto Road Canon of the Big Thompson]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Project-Landmark-Sentinel-Rock-1024x828.jpg</image:loc>
+			<image:title><![CDATA[Project – Landmark – Sentinel Rock]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Project-Landmark-4-1024x646.jpg</image:loc>
+			<image:title><![CDATA[Postcard – Devils Curve – Big Thompson Canon – Enroute to Estes Park Colorado]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Project-Landmark-Devils-Curve-1024x826.jpg</image:loc>
+			<image:title><![CDATA[Project – Landmark – Devils Curve]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Project-Landmark-Postcard-1-643x1024.jpg</image:loc>
+			<image:title><![CDATA[Project – Landmark – Postcard 1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/04/Project-Landmark-Eagle-Rock-809x1024.jpg</image:loc>
+			<image:title><![CDATA[Project – Landmark – Eagle Rock]]></image:title>
+		</image:image>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
