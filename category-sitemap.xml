@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//nathanieldauth.github.io/idlewild/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//idlewildlodge.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://nathanieldauth.github.io/idlewild/category/big-thompson-history/</loc>
+		<loc>https://idlewildlodge.org/category/big-thompson-history/</loc>
 		<lastmod>2021-04-06T13:03:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://nathanieldauth.github.io/idlewild/category/buildings/</loc>
+		<loc>https://idlewildlodge.org/category/buildings/</loc>
 		<lastmod>2021-04-03T13:33:33+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://nathanieldauth.github.io/idlewild/category/idlewild-history/</loc>
+		<loc>https://idlewildlodge.org/category/idlewild-history/</loc>
 		<lastmod>2021-04-06T02:34:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://nathanieldauth.github.io/idlewild/category/people/</loc>
+		<loc>https://idlewildlodge.org/category/people/</loc>
 		<lastmod>2021-04-05T07:13:09+00:00</lastmod>
 	</url>
 </urlset>

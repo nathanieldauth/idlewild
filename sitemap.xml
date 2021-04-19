@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//nathanieldauth.github.io/idlewild/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//idlewildlodge.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://nathanieldauth.github.io/idlewild/post-sitemap.xml</loc>
+		<loc>https://idlewildlodge.org/post-sitemap.xml</loc>
 		<lastmod>2021-04-06T13:03:45+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://nathanieldauth.github.io/idlewild/page-sitemap.xml</loc>
+		<loc>https://idlewildlodge.org/page-sitemap.xml</loc>
 		<lastmod>2021-04-03T17:56:32+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://nathanieldauth.github.io/idlewild/portfolio-sitemap.xml</loc>
+		<loc>https://idlewildlodge.org/portfolio-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>https://nathanieldauth.github.io/idlewild/cool_timeline-sitemap.xml</loc>
+		<loc>https://idlewildlodge.org/cool_timeline-sitemap.xml</loc>
 		<lastmod>2021-04-03T18:39:08+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://nathanieldauth.github.io/idlewild/category-sitemap.xml</loc>
+		<loc>https://idlewildlodge.org/category-sitemap.xml</loc>
 		<lastmod>2021-04-06T13:03:45+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://nathanieldauth.github.io/idlewild/ctl-stories-sitemap.xml</loc>
+		<loc>https://idlewildlodge.org/ctl-stories-sitemap.xml</loc>
 		<lastmod>2021-04-03T18:39:08+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://nathanieldauth.github.io/idlewild/author-sitemap.xml</loc>
+		<loc>https://idlewildlodge.org/author-sitemap.xml</loc>
 		<lastmod>2021-04-19T03:49:50+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

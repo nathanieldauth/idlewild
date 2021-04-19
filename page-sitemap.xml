@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//nathanieldauth.github.io/idlewild/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//idlewildlodge.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://nathanieldauth.github.io/idlewild/</loc>
+		<loc>https://idlewildlodge.org/</loc>
 		<lastmod>2021-04-03T11:29:01+00:00</lastmod>
 		<image:image>
-			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Idle-Wild-Lodge-Sign-1024x150.png</image:loc>
+			<image:loc>https://idlewildlodge.org/wp-content/uploads/2021/03/Idle-Wild-Lodge-Sign-1024x150.png</image:loc>
 			<image:title><![CDATA[Idle Wild Lodge Sign]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://nathanieldauth.github.io/idlewild/search/</loc>
+		<loc>https://idlewildlodge.org/search/</loc>
 		<lastmod>2021-03-30T14:31:14+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://nathanieldauth.github.io/idlewild/colorizations/</loc>
+		<loc>https://idlewildlodge.org/colorizations/</loc>
 		<lastmod>2021-04-03T11:20:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://nathanieldauth.github.io/idlewild/contact/</loc>
+		<loc>https://idlewildlodge.org/contact/</loc>
 		<lastmod>2021-04-03T11:31:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://nathanieldauth.github.io/idlewild/about/</loc>
+		<loc>https://idlewildlodge.org/about/</loc>
 		<lastmod>2021-04-03T11:44:37+00:00</lastmod>
 		<image:image>
-			<image:loc>https://nathanieldauth.github.io/idlewild/wp-content/uploads/2021/03/Page-About-Poem-777x1024.png</image:loc>
+			<image:loc>https://idlewildlodge.org/wp-content/uploads/2021/03/Page-About-Poem-777x1024.png</image:loc>
 			<image:title><![CDATA[Page – About – Poem]]></image:title>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://nathanieldauth.github.io/idlewild/timeline/</loc>
+		<loc>https://idlewildlodge.org/timeline/</loc>
 		<lastmod>2021-04-03T12:16:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://nathanieldauth.github.io/idlewild/posts/</loc>
+		<loc>https://idlewildlodge.org/posts/</loc>
 		<lastmod>2021-04-03T17:56:32+00:00</lastmod>
 	</url>
 </urlset>
