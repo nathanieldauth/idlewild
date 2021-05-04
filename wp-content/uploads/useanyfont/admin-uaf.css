@@ -1,0 +1,3 @@
+@font-face {font-family: "handwriting";src: url("/idlewildlodge/wp-content/uploads/useanyfont/7181Handwriting.woff2") format("woff2"),url("/idlewildlodge/wp-content/uploads/useanyfont/7181Handwriting.woff") format("woff");}
+.handwriting {font-family: "handwriting" !important;}
+.et_gf_handwriting {background: none !important;font-family: handwriting;text-indent: 0 !important;font-size: 25px;}
