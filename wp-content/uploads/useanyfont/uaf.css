@@ -1,3 +1,3 @@
-@font-face {font-family: "handwriting";src: url("/idlewildlodge/wp-content/uploads/useanyfont/7181Handwriting.woff2") format("woff2"),url("/idlewildlodge/wp-content/uploads/useanyfont/7181Handwriting.woff") format("woff");font-display: auto;}
+@font-face {font-family: "handwriting";src: url("https://idlewildlodge.org/wp-content/uploads/useanyfont/7181Handwriting.woff2") format("woff2"),url("https://idlewildlodge.org/wp-content/uploads/useanyfont/7181Handwriting.woff") format("woff");font-display: auto;}
 .handwriting {font-family: "handwriting" !important;}
 h6 {font-family: "handwriting" !important;}
